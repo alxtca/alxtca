@@ -7,7 +7,7 @@ Socket programming - chat - comming soon.
 - My web projects: <br>
 http://unit007.pythonanywhere.com/
 
-- My python projects:
+- My python projects: <br>
 Game bot - comming soon.
 
 <!--
