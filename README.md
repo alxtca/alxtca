@@ -2,10 +2,13 @@
 
 - 🌱 I’m currently learning c++ at USN <br>
 - My c++ projects: <br>
-Socket programming - chat
+Socket programming - chat - comming soon.
 
 - My web projects: <br>
 http://unit007.pythonanywhere.com/
+
+- My python projects:
+Game bot - comming soon.
 
 <!--
 **alxtca/alxtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
