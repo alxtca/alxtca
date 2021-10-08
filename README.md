@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning c++ at USN <br>
-My c++ projects: <br>
-- Socket programming - chat
+- My c++ projects: <br>
+Socket programming - chat
 
-- 🔭 my web projects: <br>
+- My web projects: <br>
 http://unit007.pythonanywhere.com/
 
 <!--
