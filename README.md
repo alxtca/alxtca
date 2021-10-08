@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning c++ at USN
+
+- 🔭 my web projects:
+http://unit007.pythonanywhere.com/
+
 <!--
 **alxtca/alxtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
