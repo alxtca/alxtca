@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning c++ at USN <br>
 - My c++ projects: <br>
-Socket programming - chat - comming soon.
+  Socket programming - chat: <br>
+  server https://github.com/alxtca/chat-server
+  client https://github.com/alxtca/chat-client
 
 - My web projects: <br>
 http://unit007.pythonanywhere.com/
