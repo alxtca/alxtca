@@ -8,7 +8,7 @@ Socket programming - chat - comming soon.
 http://unit007.pythonanywhere.com/
 
 - My python projects: <br>
-Game bot - comming soon.
+coming up.
 
 <!--
 **alxtca/alxtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
