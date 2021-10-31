@@ -10,7 +10,7 @@
 http://unit007.pythonanywhere.com/
 
 - My python projects: <br>
-coming up.
+game bot https://github.com/alxtca/morpgfarmbot
 
 <!--
 **alxtca/alxtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
