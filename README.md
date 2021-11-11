@@ -4,7 +4,10 @@
 - My c++ projects: <br>
   Socket programming - chat: <br>
   server https://github.com/alxtca/chat-server
-  client https://github.com/alxtca/chat-client
+  client https://github.com/alxtca/chat-client <br>
+ 
+ - My arduino projects: <br>
+ LCD menu https://github.com/alxtca/arduino_lcd_menu
 
 - My web projects: <br>
 http://unit007.pythonanywhere.com/
