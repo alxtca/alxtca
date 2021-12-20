@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning c++ at USN <br>
+- Final project at Universitet i Sørøst-Norge: <br>
+  https://github.com/alxtca/USN_cyphy_project
+  
 - My c++ projects: <br>
   Socket programming - chat: <br>
   server https://github.com/alxtca/chat-server
