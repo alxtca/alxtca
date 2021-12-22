@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Final project at Universitet i Sørøst-Norge: <br>
+- Final project at University of South-Eastern Norway: <br>
   https://github.com/alxtca/USN_cyphy_project
   
 - My c++ projects: <br>
