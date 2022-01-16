@@ -19,6 +19,7 @@ game bot https://github.com/alxtca/morpgfarmbot
 
 - My React.js projects: <br>
 to do list: https://alxtca.github.io/react-todo1/  repository: https://github.com/alxtca/react-todo1 <br>
+plank workout https://alxtca.github.io/plank-work/ repository: https://github.com/alxtca/plank-work <br>
 
 <!--
 **alxtca/alxtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
