@@ -4,7 +4,7 @@
 Tech stack: MERN (MongoDB, Express(.js), React(.js), Node(.js)) <br>
 https://alxtca-math.netlify.app/  repository: "private" <br> <br>
 Tech stack: python-flask, MySQL, jinja2. <br>
-http://unit007.pythonanywhere.com/  repository: "" <br>
+http://unit007.pythonanywhere.com/  repository: https://github.com/alxtca/powerlift/tree/main <br>
 
 - Final project at University of South-Eastern Norway: <br>
   https://github.com/alxtca/USN_cyphy_project
