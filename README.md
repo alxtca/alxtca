@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My web projects: <br>
+Tech stack: MERN (MongoDB, Express(.js), React(.js), Node(.js)) <br>
+https://alxtca-math.netlify.app/  repository: "private" <br> <br>
+Tech stack: python-flask, MySQL, jinja2. <br>
+http://unit007.pythonanywhere.com/  repository: "" <br>
+
 - Final project at University of South-Eastern Norway: <br>
   https://github.com/alxtca/USN_cyphy_project
   
@@ -11,10 +17,7 @@
  - My arduino projects: <br>
  LCD menu https://github.com/alxtca/arduino_lcd_menu
 
-- My web projects: <br>
-http://unit007.pythonanywhere.com/
-
-- My python projects: <br>
+- My python script projects: <br>
 game bot https://github.com/alxtca/morpgfarmbot
 
 - My React.js projects: <br>
