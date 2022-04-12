@@ -2,7 +2,9 @@
 
 - My web projects: <br>
 Tech stack: MERN (MongoDB, Express(.js), React(.js), Node(.js)) <br>
-https://alxtca-math.netlify.app/  repository: "private" <br> <br>
+https://alxtca-math.netlify.app/  <br>
+repository front-end: "private" <br>
+repository back-end: "private" <br> <br>
 Tech stack: python-flask, MySQL, jinja2. <br>
 http://unit007.pythonanywhere.com/  repository: https://github.com/alxtca/powerlift/tree/main <br>
 
