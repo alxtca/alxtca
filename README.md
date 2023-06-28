@@ -20,6 +20,7 @@
    LCD menu https://github.com/alxtca/arduino_lcd_menu
 
 - #### My python script projects: <br>
+  game bot https://github.com/alxtca/raid-scripts <br>
   game bot https://github.com/alxtca/morpgfarmbot
 
 - #### My React.js projects: <br>
