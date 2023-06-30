@@ -9,6 +9,9 @@
   - Tech stack: python-flask, MySQL, jinja2. <br>
   http://unit007.pythonanywhere.com/  repository: https://github.com/alxtca/powerlift/tree/main <br>
 
+- #### Angular pet where I try new concepts: <br>
+  repository: https://github.com/alxtca/angular-pet
+
 - #### Final project at University of South-Eastern Norway: <br>
   https://github.com/alxtca/USN_cyphy_project
   
