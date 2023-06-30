@@ -3,7 +3,7 @@
 - #### My web projects: <br>
   - Tech stack: MERN (MongoDB, Express(.js), React(.js), Node(.js)) <br>
   https://alxtca-math.netlify.app/  <br>
-  note: since heroke closed all free accounts, this app does not work anymore. I might move it to another platform when I have time.
+  note: since heroku.com closed all free accounts, this app does not work anymore. I might move it to another platform when I have time.
   repository front-end: https://github.com/alxtca/math-frontend <br>
   repository back-end: https://github.com/alxtca/math-backend <br> <br>
   - Tech stack: python-flask, MySQL, jinja2. <br>
