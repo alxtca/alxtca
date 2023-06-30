@@ -3,7 +3,7 @@
 - #### My web projects: <br>
   - Tech stack: MERN (MongoDB, Express(.js), React(.js), Node(.js)) <br>
   https://alxtca-math.netlify.app/  <br>
-  repository front-end: "private", shared on request <br>
+  repository front-end: https://github.com/alxtca/math-frontend <br>
   repository back-end: "private", shared on request <br> <br>
   - Tech stack: python-flask, MySQL, jinja2. <br>
   http://unit007.pythonanywhere.com/  repository: https://github.com/alxtca/powerlift/tree/main <br>
